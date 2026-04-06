@@ -4,7 +4,7 @@
 
 ---<br>
 <p align="center">
-  <img src="ASSETS/gambarai.png" alt="Gambhar AI Banner"/>
+  <img src="ASSETS/gambharai.png" alt="Gambhar AI Banner"/>
 </p>
 
 <h1 align="center">🌱 Gambhar AI</h1>
