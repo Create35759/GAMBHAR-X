@@ -12,7 +12,7 @@
 <p align="center">
   <b>GREEN EARTH IS OUR MISSION</b>
 </p>
-## 🚀 Overview
+## 🚀 Overview<br>
 **Gambhar AI** is an AI-powered agricultural intelligence system that helps farmers with **disease detection, crop management, and yield optimization** using real-time data and computer vision.
 
 It analyzes **images and videos** to detect diseases in plants, trees, and animals, and provides **instant solutions and recommendations**.
