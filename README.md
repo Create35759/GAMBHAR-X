@@ -95,6 +95,6 @@ It analyzes **images and videos** to detect diseases in plants, trees, and anima
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/gambhar-ai.git
-cd gambhar-ai
+git clone https://github.com/Create35759//GAMBHAR-AI.git
+cd GAMBHAR-AI
 pip install -r requirements.txt
