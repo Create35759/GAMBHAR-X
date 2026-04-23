@@ -15,7 +15,7 @@
 ## 🚀 Overview<br>
 **Gambhar AI** is an AI-powered agricultural intelligence system that helps farmers with **disease detection, crop management, and yield optimization** using real-time data and computer vision.
 
-It analyzes **images and videos** to detect diseases in plants, trees, and animals, and provides **instant solutions and recommendations**.
+It analyzes **images and videos or text for documents** to detect diseases in plants, trees, and animals, and provides **instant solutions and recommendations**.
 
 ---
 
@@ -26,7 +26,7 @@ It analyzes **images and videos** to detect diseases in plants, trees, and anima
   - 🌿 Plants  
   - 🌳 Trees  
   - 🐄 Animals  
-- Supports **image & video input**
+- Supports **image & video input or text based documents**
 - Instant AI-based diagnosis  
 
 ---
@@ -77,7 +77,7 @@ It analyzes **images and videos** to detect diseases in plants, trees, and anima
 - Live updates from:
   - Government sources  
   - Market prices  
-  - Logistics partners  
+  - Logistics partners
 - Helps farmers decide **when and where to sell**  
 
 ---
