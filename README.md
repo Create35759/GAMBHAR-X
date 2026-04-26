@@ -1,4 +1,4 @@
-# 🌱 Gambhar AI
+# 🌱 GambharX
 
 > **GREEN EARTH IS OUR MISSION**
 
@@ -7,13 +7,13 @@
   <img src="ASSETS/gambharai.png" alt="Gambhar AI Banner"/>
 </p>
 
-<h1 align="center">🌱 Gambhar AI</h1>
+<h1 align="center">🌱 GambharX</h1>
 
 <p align="center">
   <b>GREEN EARTH IS OUR MISSION</b>
 </p>
 ## 🚀 Overview<br>
-**Gambhar AI** is an AI-powered agricultural intelligence system that helps farmers with **disease detection, crop management, and yield optimization** using real-time data and computer vision.
+**GambharX** is an AI-powered agricultural intelligence system that helps farmers with **disease detection, crop management, and yield optimization** using real-time data and computer vision.
 
 It analyzes **images and videos or text based documents** to detect diseases in plants, trees, and animals, and provides **instant solutions and recommendations**.
 
@@ -95,6 +95,6 @@ It analyzes **images and videos or text based documents** to detect diseases in 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Create35759//GAMBHAR-AI.git
-cd GAMBHAR-AI
+git clone https://github.com/Create35759//GAMBHAR-X.git
+cd GAMBHAR-X
 pip install -r requirements.txt
