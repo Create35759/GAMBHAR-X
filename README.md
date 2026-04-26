@@ -1,19 +1,15 @@
-# 🌱 GambharX
+# 🌱 GambharX  
 > **GREEN EARTH IS OUR MISSION**
 
+---
+
 <p align="center">
-  <img src="ASSETS/gambharai.png" alt="Gambhar AI Banner" width="80%"/>
+  <img src="ASSETS/gambharai.png" alt="Gambhar AI Banner"/>
 </p>
 
+<h1 align="center">🌱 GambharX</h1>
 <p align="center">
   <b>AI + IoT Powered Smart Farming Ecosystem</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Create35759/GAMBHAR-X?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Create35759/GAMBHAR-X?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Create35759/GAMBHAR-X?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/Create35759/GAMBHAR-X?style=for-the-badge" />
 </p>
 
 ---
@@ -33,89 +29,200 @@ It supports **image, video, text, and voice inputs** to:
 
 ---
 
-## 🎥 Demo
-
-<p align="center">
-  <img src="ASSETS/demo.gif" width="80%" alt="Demo Preview"/>
-</p>
-
-> 📌 *Add your demo video link here (YouTube / Drive)*
-
----
-
-## 📸 Screenshots
-
-| Dashboard | Disease Detection | Price Estimation |
-|----------|------------------|------------------|
-| ![](ASSETS/dashboard.png) | ![](ASSETS/disease.png) | ![](ASSETS/price.png) |
-
----
-
 ## 🧠 Core Features
 
 ### 🔍 AI Disease Detection
-- Plants 🌿 | Trees 🌳 | Animals 🐄  
-- Image, Video, Text input  
-- Real-time diagnosis  
+- Detect diseases in:
+  - 🌿 Plants  
+  - 🌳 Trees  
+  - 🐄 Animals  
+- Supports:
+  - Image 📷  
+  - Video 🎥  
+  - Text 📄  
+- Real-time AI diagnosis  
 
 ---
 
 ### 💊 Smart Treatment Recommendation
-- Medicines  
-- Fertilizers  
-- Preventive measures  
+- Suggests:
+  - Medicines  
+  - Fertilizers  
+  - Preventive measures  
+- Instant response for critical situations  
 
 ---
 
 ### 📈 Yield Prediction & Optimization
-- Data-driven predictions  
-- Productivity insights  
-- Seasonal planning  
+- Predict crop yield using historical & real-time data  
+- AI-driven suggestions to improve productivity  
+- Seasonal crop planning  
 
 ---
 
 ### 📊 Real-Time Monitoring Dashboard
-- Crop health 🌱  
-- Soil moisture 🌍  
-- Weather ☁️  
+- Live tracking of:
+  - Crop health 🌱  
+  - Soil moisture 🌍  
+  - Weather conditions ☁️  
+- Interactive dashboard  
 
 ---
 
 ### 🚨 Smart Alert System
-- Disease risk  
-- Water stress  
-- Weather alerts  
+- Real-time alerts:
+  - Disease risk  
+  - Water stress  
+  - Weather warnings  
 
 ---
 
 ## 🤖 Smart Agro Advisor Agent
-- Personalized AI decision engine  
-- Suggests actions based on:
+
+A context-aware **AI decision engine** that provides personalized guidance.
+
+### Capabilities:
+- Understands:
   - Location 📍  
-  - Crop 🌾  
-  - Resources  
+  - Crop type 🌾  
+  - Land size  
+- Provides:
+  - Farming strategies  
+  - Risk analysis  
+  - Actionable decisions  
 
 ---
 
-## 🏛️ Government Scheme Engine
-- Finds relevant schemes  
+## 🏛️ Government Scheme Recommendation Engine
+
+- Suggests relevant schemes  
 - Checks eligibility  
-- Guides application  
+- Provides:
+  - Benefits  
+  - Required documents  
+  - Application guidance  
 
 ---
 
-## 🔌 Smart Farm Automation (IoT)
-- Auto sprinklers 💧  
-- Seed spreaders 🌾  
-- Soil sensors 🌱  
+## 🔌 Smart Farm Automation (IoT Integration)
 
-👉 AI automates irrigation & farming decisions  
+### Devices:
+- 💧 Auto Sprinklers  
+- 🌾 Auto Seed Spreaders  
+- 🌱 Soil Sensors  
+
+### AI Actions:
+- Auto irrigation  
+- Weather-based decisions  
+- Smart seeding  
 
 ---
 
 ## 🎙️ Voice Assistant (Hindi + English)
+
+- Supports:
+  - 🇮🇳 Hindi  
+  - 🇬🇧 English  
+
+### Features:
 - Speech-to-text  
 - AI response  
 - Text-to-speech  
 
-Example:
+---
+
+## 📷 Live Crop Price Estimation
+
+> **Point camera → Get price instantly**
+
+### Features:
+- Detect crop  
+- Analyze quality  
+- Combine market data  
+
+### Output:
+- Price range (₹)  
+- Quality grade  
+- Sell/hold advice  
+
+---
+
+## 🐄 Livestock & Animal Disease Detection
+
+- Detect diseases in:
+  - Cattle  
+  - Goat  
+  - Poultry  
+
+### Features:
+- Image-based detection  
+- Symptom analysis  
+- Treatment suggestions  
+
+---
+
+## 📦 Smart Harvest Docking & Inventory System
+
+> **AI-powered counting & weighing system**
+
+### Features:
+- Count fruits & vegetables using camera  
+- Detect crop type  
+- Auto inventory update  
+
+### Weight Mode:
+- For grains / non-countable crops  
+- AI-based estimation or IoT scale  
+
+### Output:
+- Total count  
+- Weight  
+- Batch tracking  
+
+---
+
+## 🌾 Crop Intelligence Engine
+- Crop learning  
+- Soil compatibility  
+- Fertilizer guidance  
+- Crop rotation strategies  
+
+---
+
+## 📡 Real-Time Market Integration
+- Live mandi prices  
+- Government updates  
+- Logistics insights  
+
+👉 Helps farmers decide:
+- When to sell  
+- Where to sell  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 AI/ML
+- PyTorch  
+- Computer Vision  
+- NLP (AI Agent)  
+
+### ⚙️ Backend
+- FastAPI  
+- WebSockets  
+
+### 📱 Frontend
+- Web Application  
+- Mobile App (Flutter / Kivy)  
+
+### 🗄️ Database
+- MongoDB  
+- Firebase  
+
+### 🔌 IoT
+- Sensor integrations  
+- Smart device APIs  
+
+---
+
+## 🧩 System Architecture
