@@ -1,33 +1,46 @@
-# 🌱 GambharX
-
+# 🌱 GambharX  
 > **GREEN EARTH IS OUR MISSION**
 
----<br>
+---
+
 <p align="center">
   <img src="ASSETS/gambharai.png" alt="Gambhar AI Banner"/>
 </p>
 
 <h1 align="center">🌱 GambharX</h1>
-
 <p align="center">
-  <b>GREEN EARTH IS OUR MISSION</b>
+  <b>AI + IoT Powered Smart Farming Ecosystem</b>
 </p>
-## 🚀 Overview<br>
-**GambharX** is an AI-powered agricultural intelligence system that helps farmers with **disease detection, crop management, and yield optimization** using real-time data and computer vision.
 
-It analyzes **images and videos or text based documents** to detect diseases in plants, trees, and animals, and provides **instant solutions and recommendations**.
+---
+
+## 🚀 Overview
+
+**GambharX** is a next-generation **AI-powered agricultural intelligence platform** that transforms traditional farming into a **smart, data-driven ecosystem**.
+
+It supports **image, video, text, and voice inputs** to:
+- Detect diseases  
+- Recommend treatments  
+- Predict yield  
+- Automate farming  
+- Estimate crop prices  
+- Track production  
+- Provide government schemes  
 
 ---
 
 ## 🧠 Core Features
 
 ### 🔍 AI Disease Detection
-- Detects diseases in:
+- Detect diseases in:
   - 🌿 Plants  
   - 🌳 Trees  
   - 🐄 Animals  
-- Supports **image & video input or text based documents**
-- Instant AI-based diagnosis  
+- Supports:
+  - Image 📷  
+  - Video 🎥  
+  - Text 📄  
+- Real-time AI diagnosis  
 
 ---
 
@@ -36,65 +49,180 @@ It analyzes **images and videos or text based documents** to detect diseases in 
   - Medicines  
   - Fertilizers  
   - Preventive measures  
-- Immediate response for critical situations  
+- Instant response for critical situations  
 
 ---
 
 ### 📈 Yield Prediction & Optimization
-- Tracks farming data over time  
-- Predicts crop yield  
-- Provides actionable insights to **increase productivity**  
+- Predict crop yield using historical & real-time data  
+- AI-driven suggestions to improve productivity  
+- Seasonal crop planning  
 
 ---
 
 ### 📊 Real-Time Monitoring Dashboard
 - Live tracking of:
-  - Crop health  
-  - Soil conditions  
-  - Environmental data  
-- Fully interactive and trackable dashboard  
+  - Crop health 🌱  
+  - Soil moisture 🌍  
+  - Weather conditions ☁️  
+- Interactive dashboard  
 
 ---
 
 ### 🚨 Smart Alert System
-- Real-time alerts when:
-  - Plant dehydration detected  
-  - Disease risk increases  
-- Notifications sent directly to farmer devices  
+- Real-time alerts:
+  - Disease risk  
+  - Water stress  
+  - Weather warnings  
 
 ---
 
-### 🌾 Crop Intelligence Engine
-- Helps farmers:
-  - Learn how to grow new crops  
-  - Choose best soil type  
-  - Select suitable fertilizers  
-- Knowledge-driven AI assistance  
+## 🤖 Smart Agro Advisor Agent
+
+A context-aware **AI decision engine** that provides personalized guidance.
+
+### Capabilities:
+- Understands:
+  - Location 📍  
+  - Crop type 🌾  
+  - Land size  
+- Provides:
+  - Farming strategies  
+  - Risk analysis  
+  - Actionable decisions  
 
 ---
 
-### 📡 Real-Time Market Integration
-- Live updates from:
-  - Government sources  
-  - Market prices  
-  - Logistics partners
-- Helps farmers decide **when and where to sell**  
+## 🏛️ Government Scheme Recommendation Engine
+
+- Suggests relevant schemes  
+- Checks eligibility  
+- Provides:
+  - Benefits  
+  - Required documents  
+  - Application guidance  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔌 Smart Farm Automation (IoT Integration)
 
-- **AI/ML:** PyTorch, Computer Vision  
-- **Backend:** FastAPI  
-- **Frontend:** Web / Mobile (Kivy / Flutter)  
-- **Database:** MongoDB / Firebase  
-- **Real-Time:** WebSockets  
+### Devices:
+- 💧 Auto Sprinklers  
+- 🌾 Auto Seed Spreaders  
+- 🌱 Soil Sensors  
+
+### AI Actions:
+- Auto irrigation  
+- Weather-based decisions  
+- Smart seeding  
 
 ---
 
-## ⚙️ Installation
+## 🎙️ Voice Assistant (Hindi + English)
 
-```bash
-git clone https://github.com/Create35759//GAMBHAR-X.git
-cd GAMBHAR-X
-pip install -r requirements.txt
+- Supports:
+  - 🇮🇳 Hindi  
+  - 🇬🇧 English  
+
+### Features:
+- Speech-to-text  
+- AI response  
+- Text-to-speech  
+
+---
+
+## 📷 Live Crop Price Estimation
+
+> **Point camera → Get price instantly**
+
+### Features:
+- Detect crop  
+- Analyze quality  
+- Combine market data  
+
+### Output:
+- Price range (₹)  
+- Quality grade  
+- Sell/hold advice  
+
+---
+
+## 🐄 Livestock & Animal Disease Detection
+
+- Detect diseases in:
+  - Cattle  
+  - Goat  
+  - Poultry  
+
+### Features:
+- Image-based detection  
+- Symptom analysis  
+- Treatment suggestions  
+
+---
+
+## 📦 Smart Harvest Docking & Inventory System
+
+> **AI-powered counting & weighing system**
+
+### Features:
+- Count fruits & vegetables using camera  
+- Detect crop type  
+- Auto inventory update  
+
+### Weight Mode:
+- For grains / non-countable crops  
+- AI-based estimation or IoT scale  
+
+### Output:
+- Total count  
+- Weight  
+- Batch tracking  
+
+---
+
+## 🌾 Crop Intelligence Engine
+- Crop learning  
+- Soil compatibility  
+- Fertilizer guidance  
+- Crop rotation strategies  
+
+---
+
+## 📡 Real-Time Market Integration
+- Live mandi prices  
+- Government updates  
+- Logistics insights  
+
+👉 Helps farmers decide:
+- When to sell  
+- Where to sell  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 AI/ML
+- PyTorch  
+- Computer Vision  
+- NLP (AI Agent)  
+
+### ⚙️ Backend
+- FastAPI  
+- WebSockets  
+
+### 📱 Frontend
+- Web Application  
+- Mobile App (Flutter / Kivy)  
+
+### 🗄️ Database
+- MongoDB  
+- Firebase  
+
+### 🔌 IoT
+- Sensor integrations  
+- Smart device APIs  
+
+---
+
+## 🧩 System Architecture
